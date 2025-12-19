@@ -1,4 +1,5 @@
 pyTelegramBotAPI
 Flask
+SQLAlchemy
 psycopg2-binary
 python-dotenv
